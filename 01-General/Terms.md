@@ -11,7 +11,7 @@ Workflow Instance: A workflow instance refers to a single occurrence of "a workf
 Example: When Emily submits an expense request for $150 on October 5th for a business lunch with a client, including a receipt and the purpose of the expense, this submission creates a unique workflow instance. This instance follows the predefined rules: since the amount exceeds $100, the system automatically routes her request to her manager, John, for approval. The instance will continue to evolve, tracking actions such as John's review and decision, until the expense request process is completed. This specific occurrence, with its own set of data and progression through the established process, exemplifies a workflow instance in action. Simultaneously, there could be other instances initiated by Emily or any individual within the organization, each following its unique path through the workflow as dictated by the same set of rules but with their distinct data and lifecycle
 
 
-- Workflow diagram: a visual that shows all tasks, and gateways ...
+- Workflow diagram: a visual that shows all tasks, and gateways and control flow. 
 
 - Workflow execution
 - Task Sequencing Logic
